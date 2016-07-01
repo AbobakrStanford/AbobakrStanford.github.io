@@ -152,6 +152,12 @@ a:hover {
 	box-sizing: border-box;
 }
 
+#contact{
+	color:white;
+	text-shadow:2px 2px black;
+}
+
+
 ul,
 ol {
 	padding-left: 0 !important;
